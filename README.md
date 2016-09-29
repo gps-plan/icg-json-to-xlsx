@@ -2,6 +2,8 @@
 
 A simple module to convert JSON to XLSX files.  This is really just a thin wrapper on the awesome [XLSX](https://github.com/SheetJS/js-xlsx) module.
 
+ABOUT THIS CLONE: This clone just wants to add the option to use some XLSX template files.
+
 
 ## Installation
 

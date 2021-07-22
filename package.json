@@ -1,6 +1,6 @@
 {
-  "name": "icg-json-to-xlsx",
-  "version": "0.2.5",
+  "name": "icg-json-to-xlsx-gps",
+  "version": "0.2.6",
   "description": "A simple module to convert JSON to XLSX files.",
   "main": "lib/icg-json-to-xlsx.js",
   "scripts": {
@@ -8,17 +8,21 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/ICGGroup/icg-json-to-xlsx.git"
+    "url": "git+https://github.com/ajflash/icg-json-to-xlsx.git"
   },
   "author": "Trimeego",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ICGGroup/icg-json-to-xlsx/issues"
+    "url": "https://github.com/ajflash/icg-json-to-xlsx/issues"
   },
-  "homepage": "https://github.com/ICGGroup/icg-json-to-xlsx",
+  "homepage": "https://github.com/ajflash/icg-json-to-xlsx",
   "dependencies": {
     "isodate": "^0.1.4",
     "lodash": "^2.4.1",
     "xlsx": "^0.7.10"
+  },
+  "directories": {
+    "example": "examples",
+    "lib": "lib"
   }
 }

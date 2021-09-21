@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ajflash/icg-json-to-xlsx.git"
+    "url": "git+https://github.com/gps-plan/icg-json-to-xlsx.git"
   },
   "author": "Trimeego",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ajflash/icg-json-to-xlsx/issues"
+    "url": "https://github.com/gps-plan/icg-json-to-xlsx/issues"
   },
-  "homepage": "https://github.com/ajflash/icg-json-to-xlsx",
+  "homepage": "https://github.com/gps-plan/icg-json-to-xlsx",
   "dependencies": {
     "isodate": "^0.1.4",
     "lodash": "^2.4.1",

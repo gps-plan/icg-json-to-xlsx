@@ -1,4 +1,4 @@
-# icg-json-to-xlsx-gps
+# icg-json-to-xlsx-gps-plan
 
 A simple module to convert JSON to XLSX files.  This is really just a thin wrapper on the awesome [XLSX](https://github.com/SheetJS/js-xlsx) module.
 
@@ -7,7 +7,7 @@ ABOUT THIS CLONE: This clone just wants to add the option to use some XLSX templ
 
 ## Installation
 
-    [sudo] npm install icg-json-to-xlsx-gps
+    [sudo] npm install icg-json-to-xlsx-gps-plan
 
 ## Overview
 

@@ -1,5 +1,5 @@
 {
-  "name": "icg-json-to-xlsx-gps",
+  "name": "icg-json-to-xlsx-gps-plan",
   "version": "0.2.7",
   "description": "A simple module to convert JSON to XLSX files.",
   "main": "lib/icg-json-to-xlsx.js",
